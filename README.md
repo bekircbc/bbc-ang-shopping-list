@@ -8,4 +8,4 @@
 
             --> shopping-list   --> shopping-edit
 
--
+- ng add @angular/material
